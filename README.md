@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://danielkomor.pl">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&width=680&lines=IT+Expert+%7C+Cloud+%26+AI+%7C+Security-Focused+IT;Product+delivery%2C+automation+and+security;I+own+complex+technical+problems+end+to+end;From+diagnosis+and+decisions+to+stable+operations" alt="IT Expert | Cloud & AI | Security-Focused IT" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&width=680&lines=IT+Expert+%7C+Cloud+%26+AI+%7C+Security-Focused+IT;Product+delivery%2C+automation+and+security" alt="IT Expert | Cloud & AI | Security-Focused IT" />
   </a>
 </p>
 
